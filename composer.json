@@ -20,5 +20,7 @@
     "scripts": {
         "phpcs": "vendor/bin/phpcs --standard=PSR12 src/",
 	"phpcbf": "vendor/bin/phpcbf"
-    }
+    },
+	"minimum-stability": "dev",
+    "prefer-stable": true
 }
